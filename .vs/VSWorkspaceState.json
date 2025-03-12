@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\DBService",
+    "\\Repository",
+    "\\Test",
+    "\\Test\\CentraLogClient",
+    "\\Test\\Test"
+  ],
+  "PreviewInSolutionExplorer": false
+}
